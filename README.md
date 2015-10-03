@@ -68,7 +68,7 @@ For a centered modal box (not fullscreen which is default), include the followin
 |---------------------|-------------|
 | `slide-in-up`       | Transition  |
 | `slide-in-down`     | Transition  |
-| `face-in-scale`     | Transition  |
+| `fade-in-scale`     | Transition  |
 | `fade-in-right`     | Transition  |
 | `fade-in-left`      | Transition  |
 | `newspaper`         | Transition  |
